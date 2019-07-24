@@ -1,3 +1,14 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url('./assets/bg.jpg');
+  background-size: auto;
+}
+
 .App {
   text-align: center;
 }
@@ -30,4 +41,113 @@
   to {
     transform: rotate(360deg);
   }
+}
+@font-face {
+  font-family: 'zorque';
+  font-style: normal;
+  font-weight: normal;
+  src: local('zorque'), url('zorque.ttf') format('truetype');
+}
+
+h1 {
+  font-family: 'zorque';
+  color: white;
+  font-weight: 200;
+}
+
+h3 {
+  font-family: 'zorque';
+  color: red;
+  font-weight: 100;
+}
+
+.f1 {
+  font-size: 5em;
+}
+
+#specs2 {
+  margin-right: 30px;
+}
+#specs1 {
+  margin-right: 90px;
+}
+#specs4 {
+  margin-right: 140px;
+}
+#specs3 {
+  margin-right: 120px;
+}
+
+#cabinet {
+  background: url('assets/cabinet1.png') top left no-repeat; 
+  height: 700px;
+  width: 700px;
+  margin: 40 auto;
+  margin-left: 150px;
+  margin-top: 80px;
+  position: relative; 
+}
+
+#motherboard {
+  position: absolute;
+  height: 430px;
+  width: 352.516px;
+  top: 50px;
+  left: 320px;
+  
+}
+
+#processor {
+  position: absolute;
+  height: 80px;
+  width: 80px;
+  top: 130px;
+  left: 470px;
+}
+
+#graphic {
+  position: absolute;
+  width: 200px;
+  top: 280px;
+  left: 360px;
+}
+#ssd {
+  position: absolute;
+  height: 40px;
+  left: 510px;
+  top: 440px;
+}
+#cool{
+  position: absolute;
+  height: 150px;
+  top: 100px;
+  left: 350px;
+}
+#hhd {
+  position: absolute;
+  height: 200px;
+  top: 200px;
+  left: 120px;
+}
+#power {
+  position: absolute;
+  height: 140px;
+  top: 430px;
+  left: 100px;
+}
+#ram {
+  position: absolute;
+  width: 110px;
+  top: 400px;
+  left: 390px;
+}
+#monitor {
+  position: absolute;
+  top: 60px;
+  left: 300px;
+  height: 550px;
+}
+.dim {
+  opacity: 1;
+  transition: opacity .10s ease-in;
 }
