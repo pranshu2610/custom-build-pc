@@ -132,7 +132,10 @@ class App extends Component {
 
         </div>
       : <div id="back" className="fl w-100"> <Final /> 
-        <div id="cabinet2">
+        <p></p>
+        <div className="fl w-25">
+        </div>
+        <div id="cabinet2" className="fl w-50">
 
           { this.state.mother === 'msi' ? <img id="motherboard" alt="MB" src={require('./MBcard/msib.png')} />
           : this.state.mother === 'giga' ? <img id="motherboard" alt="MB" src={require('./MBcard/gigam.png')} />
