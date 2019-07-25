@@ -41,7 +41,7 @@ class App extends Component {
     return (
       <div className="App">
       {this.state.route === 0 ?  <div>
-        <h1 className='f2'>BUILD A CUSTOM GAMING PC</h1>
+        <h1 className='f1'>BUILD A CUSTOM GAMING PC</h1>
         <div className='fl w-50 ma5' id="cabinet">
 
           { this.state.mother === 'msi' ? <img id="motherboard" alt="MB" src={require('./MBcard/msib.png')} />
@@ -131,7 +131,7 @@ class App extends Component {
 
         </div>
       : <div id="back" className="fl w-100 center">
-        <h1 className='f2'>Your PC is Ready !!</h1> 
+        <h1 className='f1'>Your PC is Ready !!</h1> 
         <div id="cabinet2" className="fl w-50">
 
           { this.state.mother === 'msi' ? <img id="motherboard" alt="MB" src={require('./MBcard/msib.png')} />
@@ -188,6 +188,7 @@ class App extends Component {
           : <p></p>
           }
         </div>
+        <footer className="fl w-100 white">Made with ❤️ by Pranshu Kumbhare</footer>
       </div>
       }
       </div>

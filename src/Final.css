@@ -7,15 +7,13 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 #back {
-	background: url('assets/bg2.png') top left no-repeat; 
+	background: url('assets/bg2.jpg') top left no-repeat; 
 	background-position: center;
-}
-#monitor2 {
-  position: absolute;
-  top: 40px;
-  left: 600px;
-  height: 600px;
-  width: 700px;
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-top: 30px;
 }
 #cabinet2 {
   background: url('assets/cabinet1.png') top left no-repeat; 
@@ -26,6 +24,14 @@ body {
   margin-top: 65px;
   position: relative; 
 }
+#monitor2 {
+  position: absolute;
+  top: 40px;
+  left: 600px;
+  height: 600px;
+  width: 700px;
+}
+
 #glass {
   height: 640px;
   margin-left: -10px;
