@@ -42,7 +42,7 @@ class App extends Component {
     return (
       <div className="App">
       {this.state.route === 0 ?  <div>
-        <h1 className='f1'>BUILD A CUSTOM GAMING PC</h1>
+        <h1 className='f2'>BUILD A CUSTOM GAMING PC</h1>
         <div className='fl w-50 ma5' id="cabinet">
 
           { this.state.mother === 'msi' ? <img id="motherboard" alt="MB" src={require('./MBcard/msib.png')} />
@@ -131,7 +131,7 @@ class App extends Component {
         </div>
 
         </div>
-      : <div id="back"> <Final /> 
+      : <div id="back" className="fl w-100"> <Final /> 
         <div id="cabinet2">
 
           { this.state.mother === 'msi' ? <img id="motherboard" alt="MB" src={require('./MBcard/msib.png')} />
