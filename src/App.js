@@ -10,7 +10,6 @@ import PS from './Power/PS';
 import Cool from './Cool/Cool';
 import Monitor from './Monitor/Monitor';
 import Finish from './Finish';
-import Final from './Final';
 import './Final.css';
 
 
@@ -131,10 +130,8 @@ class App extends Component {
         </div>
 
         </div>
-      : <div id="back" className="fl w-100"> <Final /> 
-        <p></p>
-        <div className="fl w-25">
-        </div>
+      : <div id="back" className="fl w-100 center">
+        <h1 className='f2'>Your PC is Ready !!</h1> 
         <div id="cabinet2" className="fl w-50">
 
           { this.state.mother === 'msi' ? <img id="motherboard" alt="MB" src={require('./MBcard/msib.png')} />
@@ -190,15 +187,7 @@ class App extends Component {
           : this.state.monitor === 'benq' ? <img id="monitor2" alt="" src={require('./Monitor/benq.gif')}/>
           : <p></p>
           }
-     
-          
-          
-
         </div>
-
-
-
-
       </div>
       }
       </div>
