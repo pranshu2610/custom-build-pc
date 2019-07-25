@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/custom-build-pc/static/css/main.9ba6d982.chunk.css",
-    "main.js": "/custom-build-pc/static/js/main.6e5b920f.chunk.js",
-    "main.js.map": "/custom-build-pc/static/js/main.6e5b920f.chunk.js.map",
+    "main.js": "/custom-build-pc/static/js/main.ecb1ca98.chunk.js",
+    "main.js.map": "/custom-build-pc/static/js/main.ecb1ca98.chunk.js.map",
     "runtime~main.js": "/custom-build-pc/static/js/runtime~main.30485db1.js",
     "runtime~main.js.map": "/custom-build-pc/static/js/runtime~main.30485db1.js.map",
     "static/css/2.6cc76bc8.chunk.css": "/custom-build-pc/static/css/2.6cc76bc8.chunk.css",
     "static/js/2.a3e99362.chunk.js": "/custom-build-pc/static/js/2.a3e99362.chunk.js",
     "static/js/2.a3e99362.chunk.js.map": "/custom-build-pc/static/js/2.a3e99362.chunk.js.map",
     "index.html": "/custom-build-pc/index.html",
-    "precache-manifest.8bb60505280627694a4d36faf55965d9.js": "/custom-build-pc/precache-manifest.8bb60505280627694a4d36faf55965d9.js",
+    "precache-manifest.c0d745858ca2b2567b8a7fbc6015b78e.js": "/custom-build-pc/precache-manifest.c0d745858ca2b2567b8a7fbc6015b78e.js",
     "service-worker.js": "/custom-build-pc/service-worker.js",
     "static/css/2.6cc76bc8.chunk.css.map": "/custom-build-pc/static/css/2.6cc76bc8.chunk.css.map",
     "static/css/main.9ba6d982.chunk.css.map": "/custom-build-pc/static/css/main.9ba6d982.chunk.css.map",
