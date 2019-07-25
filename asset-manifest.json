@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/custom-build-pc/static/css/main.3b5e3a71.chunk.css",
+    "main.css": "/custom-build-pc/static/css/main.9ba6d982.chunk.css",
     "main.js": "/custom-build-pc/static/js/main.6e5b920f.chunk.js",
     "main.js.map": "/custom-build-pc/static/js/main.6e5b920f.chunk.js.map",
     "runtime~main.js": "/custom-build-pc/static/js/runtime~main.30485db1.js",
@@ -9,10 +9,10 @@
     "static/js/2.a3e99362.chunk.js": "/custom-build-pc/static/js/2.a3e99362.chunk.js",
     "static/js/2.a3e99362.chunk.js.map": "/custom-build-pc/static/js/2.a3e99362.chunk.js.map",
     "index.html": "/custom-build-pc/index.html",
-    "precache-manifest.59364c147207d30ed6913201cc05613c.js": "/custom-build-pc/precache-manifest.59364c147207d30ed6913201cc05613c.js",
+    "precache-manifest.8bb60505280627694a4d36faf55965d9.js": "/custom-build-pc/precache-manifest.8bb60505280627694a4d36faf55965d9.js",
     "service-worker.js": "/custom-build-pc/service-worker.js",
     "static/css/2.6cc76bc8.chunk.css.map": "/custom-build-pc/static/css/2.6cc76bc8.chunk.css.map",
-    "static/css/main.3b5e3a71.chunk.css.map": "/custom-build-pc/static/css/main.3b5e3a71.chunk.css.map",
+    "static/css/main.9ba6d982.chunk.css.map": "/custom-build-pc/static/css/main.9ba6d982.chunk.css.map",
     "static/media/2070.png": "/custom-build-pc/static/media/2070.254a49b5.png",
     "static/media/2080.png": "/custom-build-pc/static/media/2080.422478b9.png",
     "static/media/acer.png": "/custom-build-pc/static/media/acer.1c96c870.png",

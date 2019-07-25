@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6d77ec540aee2861860f8c09ee0cc5db",
+    "revision": "2ecef457427261c594ea95d892518fdb",
     "url": "/custom-build-pc/index.html"
   },
   {
@@ -8,15 +8,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/custom-build-pc/static/css/2.6cc76bc8.chunk.css"
   },
   {
-    "revision": "69d240f283298921c681",
-    "url": "/custom-build-pc/static/css/main.3b5e3a71.chunk.css"
+    "revision": "07cfa0f19cf02fcae47c",
+    "url": "/custom-build-pc/static/css/main.9ba6d982.chunk.css"
   },
   {
     "revision": "7ccbeaecd51cb94e29be",
     "url": "/custom-build-pc/static/js/2.a3e99362.chunk.js"
   },
   {
-    "revision": "69d240f283298921c681",
+    "revision": "07cfa0f19cf02fcae47c",
     "url": "/custom-build-pc/static/js/main.6e5b920f.chunk.js"
   },
   {
